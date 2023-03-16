@@ -1,0 +1,24 @@
+body{ 
+    background:linear-gradient(90deg, black, rgb(27, 27, 27));
+}
+.qr { 
+    width: 500px; 
+    height: 500px; 
+    margin-top: 160px ;
+    margin-left: 625px;  
+    border-radius: 50px;
+    background:linear-gradient(45deg, rgb(255, 38, 0) , rgb(0, 132, 255) );
+}
+
+.text { 
+
+    margin-top: -450px;
+    margin-left: 645px ;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.pos{ 
+    margin-top: 75px; 
+    margin-left: 745px; 
+}
