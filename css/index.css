@@ -1,0 +1,35 @@
+h1#centro
+{ 
+    text-align:center; 
+    color: white;
+}
+.centro
+{ 
+    color: white;
+}
+
+*
+{ 
+    padding:0px;
+    margin: 0px;
+    margin:auto; 
+}
+
+
+p
+{ 
+    font-family: 'Cookie', cursive;
+    position:initial;
+    color: white;
+    display:block; 
+    padding: 50px ;
+}
+
+h1
+{ 
+    display:block;
+    padding: auto;
+    font-family: 'Cookie', cursive;
+    
+}
+

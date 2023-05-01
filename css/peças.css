@@ -1,0 +1,21 @@
+.lugar1 
+{ 
+    display: block; 
+    text-align: center;
+    color: white;
+
+}
+
+.min
+{ 
+    margin-top:-50px; 
+    display:block;
+    text-align:center; 
+    font-size:20px; 
+}
+*
+{ 
+    padding:0px;
+    margin: 0px;
+    margin:auto; 
+}

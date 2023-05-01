@@ -1,0 +1,11 @@
+body
+{ 
+    background-color: rgb(27, 27, 27);
+}
+
+img 
+{ 
+    margin:auto; 
+    display:block; 
+    border-radius: 50px ;
+}
